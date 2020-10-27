@@ -1,0 +1,13 @@
+.breakout {
+    height: 1.5em;
+    width: 80%;
+}
+.question {
+    margin: 16px;
+}
+.answer {
+    display: block;
+    font-size: 0.8em;
+    width:80%;
+    height:8em;
+}
