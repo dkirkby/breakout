@@ -1,2 +1,3 @@
 # breakout
-Realtime classroom responses during zoom breakout room sessions
+
+Enables realtime classroom responses during zoom breakout room sessions.
